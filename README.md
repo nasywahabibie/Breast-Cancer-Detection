@@ -101,4 +101,5 @@ Data ini mempunyai total 569 baris dan 32 kolom dengan total 30 fitur, dengan 1 
    plt.show()
    
 ## 📈 Hasil  
-
+![Confusion Matrix](images/confusion_matrix.png)
+![Precision, Recall, dan F-1 Score](images/precision.png)
